@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome cmus</title>
+  <desc id="desc">A terminal-inspired banner for tools, themes, integrations, and configurations.</desc>
+  <rect width="1280" height="280" rx="20" fill="#11131e"/>
+  <rect x="26" y="24" width="1228" height="232" rx="12" fill="#181b2a" stroke="#30364c"/>
+  <circle cx="52" cy="48" r="5" fill="#f38ba8"/>
+  <circle cx="72" cy="48" r="5" fill="#f9e2af"/>
+  <circle cx="92" cy="48" r="5" fill="#a6e3a1"/>
+  <text x="60" y="130" fill="#a6e3a1" font-family="monospace" font-size="21">&gt;</text>
+  <text x="100" y="134" fill="#e7e9f5" font-family="monospace" font-size="52" font-weight="bold">awesome-cmus</text>
+  <text x="102" y="185" fill="#b5bed8" font-family="monospace" font-size="20">Tools · themes · integrations · configurations</text>
+  <g fill="#a6e3a1">
+    <rect x="965" y="125" width="14" height="70" rx="3"/>
+    <rect x="990" y="92" width="14" height="103" rx="3"/>
+    <rect x="1015" y="112" width="14" height="83" rx="3"/>
+    <rect x="1040" y="72" width="14" height="123" rx="3"/>
+    <rect x="1065" y="100" width="14" height="95" rx="3"/>
+    <rect x="1090" y="130" width="14" height="65" rx="3"/>
+    <rect x="1115" y="116" width="14" height="79" rx="3"/>
+  </g>
+</svg>

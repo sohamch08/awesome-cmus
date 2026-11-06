@@ -1,0 +1,28 @@
+name: Suggest a resource
+description: Propose a cmus tool, integration, configuration, or guide.
+title: "Add: "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical URL
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: What does it add to cmus?
+      description: Describe a concrete feature and any relevant platform or compatibility context.
+    validations:
+      required: true
+  - type: textarea
+    id: category
+    attributes:
+      label: Suggested category and source checks
+      description: Include a direct config or author documentation link where useful.

@@ -1,0 +1,1887 @@
+{
+  "checked_on": "2026-11-06",
+  "scope": "GitHub repository metadata only; not runtime or full file URL validation",
+  "repositories": {
+    "0x61nas/cmus-notify": {
+      "nameWithOwner": "0x61nas/cmus-notify",
+      "url": "https://github.com/0x61nas/cmus-notify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-31T01:39:05Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "0x61nas/cmus-rpc": {
+      "nameWithOwner": "0x61nas/cmus-rpc",
+      "url": "https://github.com/0x61nas/cmus-rpc",
+      "isArchived": true,
+      "isFork": false,
+      "pushedAt": "2023-12-24T06:12:07Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "0x61nas/cmus-rpc-rs": {
+      "nameWithOwner": "0x61nas/cmus-rpc-rs",
+      "url": "https://github.com/0x61nas/cmus-rpc-rs",
+      "isArchived": true,
+      "isFork": false,
+      "pushedAt": "2024-02-16T13:52:26Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "abigailsdev/cmus-status": {
+      "nameWithOwner": "abigailsdev/cmus-status",
+      "url": "https://github.com/abigailsdev/cmus-status",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-07-08T19:55:55Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "ahloiscreamo/Illit": {
+      "nameWithOwner": "ahloiscreamo/Illit",
+      "url": "https://github.com/ahloiscreamo/Illit",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-04T12:01:47Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "AlBurns-MSFT/cmus-visualizer": {
+      "nameWithOwner": "AlBurns-MSFT/cmus-visualizer",
+      "url": "https://github.com/AlBurns-MSFT/cmus-visualizer",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2019-10-10T23:14:59Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "alewmoose/show-lyrics": {
+      "nameWithOwner": "alewmoose/show-lyrics",
+      "url": "https://github.com/alewmoose/show-lyrics",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-12-22T20:32:35Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "alextercete/cmus-theme-screenshot": {
+      "nameWithOwner": "alextercete/cmus-theme-screenshot",
+      "url": "https://github.com/alextercete/cmus-theme-screenshot",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2012-08-22T02:18:39Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "alexxGmZ/player.nvim": {
+      "nameWithOwner": "alexxGmZ/player.nvim",
+      "url": "https://github.com/alexxGmZ/player.nvim",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-09-27T12:17:59Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "altdesktop/playerctl": {
+      "nameWithOwner": "altdesktop/playerctl",
+      "url": "https://github.com/altdesktop/playerctl",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-06-13T16:40:00Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "AntoineGagne/cmus-notify": {
+      "nameWithOwner": "AntoineGagne/cmus-notify",
+      "url": "https://github.com/AntoineGagne/cmus-notify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-01-05T23:30:46Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "arisu-gh/cmusinfo": {
+      "nameWithOwner": "arisu-gh/cmusinfo",
+      "url": "https://github.com/arisu-gh/cmusinfo",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-02-15T08:46:47Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "arkq/cmusfm": {
+      "nameWithOwner": "arkq/cmusfm",
+      "url": "https://github.com/arkq/cmusfm",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-05T17:00:12Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "arran4/go-playerctl": {
+      "nameWithOwner": "arran4/go-playerctl",
+      "url": "https://github.com/arran4/go-playerctl",
+      "isArchived": false,
+      "isFork": true,
+      "pushedAt": "2026-11-05T04:00:04Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Ars-byte/cmuspp": {
+      "nameWithOwner": "Ars-byte/cmuspp",
+      "url": "https://github.com/Ars-byte/cmuspp",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-08-03T17:54:36Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "Ars-byte/Cmuspp-qt": {
+      "nameWithOwner": "Ars-byte/Cmuspp-qt",
+      "url": "https://github.com/Ars-byte/Cmuspp-qt",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-07-31T16:24:29Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "at8i/cmus-setup": {
+      "nameWithOwner": "at8i/cmus-setup",
+      "url": "https://github.com/at8i/cmus-setup",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-01-07T20:01:18Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "averms/base16-cmus": {
+      "nameWithOwner": "averms/base16-cmus",
+      "url": "https://github.com/averms/base16-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2020-05-09T04:08:01Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "azadkuh/vim-cmus": {
+      "nameWithOwner": "azadkuh/vim-cmus",
+      "url": "https://github.com/azadkuh/vim-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-07-27T11:56:27Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "bardisty/dotfiles": {
+      "nameWithOwner": "bardisty/dotfiles",
+      "url": "https://github.com/bardisty/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-11-22T02:34:37Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Bond-009/cmus-discord-rpc": {
+      "nameWithOwner": "Bond-009/cmus-discord-rpc",
+      "url": "https://github.com/Bond-009/cmus-discord-rpc",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-04-19T15:45:22Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "BXn4/cmus": {
+      "nameWithOwner": "BXn4/cmus",
+      "url": "https://github.com/BXn4/cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-08-19T11:21:14Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "Cadesius/Forgotten-Sands-Theme": {
+      "nameWithOwner": "Cadesius/Forgotten-Sands-Theme",
+      "url": "https://github.com/Cadesius/Forgotten-Sands-Theme",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-12-06T11:25:14Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "catppuccin/catppuccin": {
+      "nameWithOwner": "catppuccin/catppuccin",
+      "url": "https://github.com/catppuccin/catppuccin",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-07-25T11:36:35Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "cmus-enjoyers/cmus.nvim": {
+      "nameWithOwner": "cmus-enjoyers/cmus.nvim",
+      "url": "https://github.com/cmus-enjoyers/cmus.nvim",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-05-21T10:18:43Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "cmus-plugins/cmus-base-plugins": {
+      "nameWithOwner": "cmus-plugins/cmus-base-plugins",
+      "url": "https://github.com/cmus-plugins/cmus-base-plugins",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2015-08-29T00:41:27Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "cmus/cmus": {
+      "nameWithOwner": "cmus/cmus",
+      "url": "https://github.com/cmus/cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-28T11:56:27Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "complexlogic/rsgain": {
+      "nameWithOwner": "complexlogic/rsgain",
+      "url": "https://github.com/complexlogic/rsgain",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-11T14:17:14Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Coreball/cmus-swift": {
+      "nameWithOwner": "Coreball/cmus-swift",
+      "url": "https://github.com/Coreball/cmus-swift",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2023-06-07T20:40:12Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "CreativeCodeCat/cmusfetcher500": {
+      "nameWithOwner": "CreativeCodeCat/cmusfetcher500",
+      "url": "https://github.com/CreativeCodeCat/cmusfetcher500",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-01-19T09:07:40Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "Cybersnake223/Hypr": {
+      "nameWithOwner": "Cybersnake223/Hypr",
+      "url": "https://github.com/Cybersnake223/Hypr",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-08-08T16:24:57Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "dcx86r/cmus-notify": {
+      "nameWithOwner": "dcx86r/cmus-notify",
+      "url": "https://github.com/dcx86r/cmus-notify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-11-23T03:03:00Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "dfmgr/cmus": {
+      "nameWithOwner": "dfmgr/cmus",
+      "url": "https://github.com/dfmgr/cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-01-19T17:06:21Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "Dimithrandir/cmushnotify": {
+      "nameWithOwner": "Dimithrandir/cmushnotify",
+      "url": "https://github.com/Dimithrandir/cmushnotify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2023-04-12T12:16:12Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "drewvanstone/cmus-base16": {
+      "nameWithOwner": "drewvanstone/cmus-base16",
+      "url": "https://github.com/drewvanstone/cmus-base16",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2015-08-22T16:11:20Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "e-ink-colorscheme/e-ink.cmus": {
+      "nameWithOwner": "e-ink-colorscheme/e-ink.cmus",
+      "url": "https://github.com/e-ink-colorscheme/e-ink.cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-08-09T13:08:25Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "egel/cmus-gruvbox": {
+      "nameWithOwner": "egel/cmus-gruvbox",
+      "url": "https://github.com/egel/cmus-gruvbox",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2016-06-15T22:14:08Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "egel/dotfiles": {
+      "nameWithOwner": "egel/dotfiles",
+      "url": "https://github.com/egel/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-01T11:39:49Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "elairavi/dotfiles": {
+      "nameWithOwner": "elairavi/dotfiles",
+      "url": "https://github.com/elairavi/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-06-28T12:54:04Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "emp1r3/cmus-sixel": {
+      "nameWithOwner": "emp1r3/cmus-sixel",
+      "url": "https://github.com/emp1r3/cmus-sixel",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-09-12T10:16:57Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "Endg4meZer0/lrcsnc": {
+      "nameWithOwner": "Endg4meZer0/lrcsnc",
+      "url": "https://github.com/Endg4meZer0/lrcsnc",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-09-19T05:19:39Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "ExistentialAudio/BlackHole": {
+      "nameWithOwner": "ExistentialAudio/BlackHole",
+      "url": "https://github.com/ExistentialAudio/BlackHole",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-28T18:24:10Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "FawkesOficial/cmus-discord-rpc": {
+      "nameWithOwner": "FawkesOficial/cmus-discord-rpc",
+      "url": "https://github.com/FawkesOficial/cmus-discord-rpc",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-03-16T17:55:38Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "FawkesOficial/cmus-web": {
+      "nameWithOwner": "FawkesOficial/cmus-web",
+      "url": "https://github.com/FawkesOficial/cmus-web",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-05-24T15:56:03Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "FelixKratz/SketchyBar": {
+      "nameWithOwner": "FelixKratz/SketchyBar",
+      "url": "https://github.com/FelixKratz/SketchyBar",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-18T16:36:40Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "FichteFoll/discordrp-mpris": {
+      "nameWithOwner": "FichteFoll/discordrp-mpris",
+      "url": "https://github.com/FichteFoll/discordrp-mpris",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-10-09T07:48:33Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "fooyou/cmus-lrc": {
+      "nameWithOwner": "fooyou/cmus-lrc",
+      "url": "https://github.com/fooyou/cmus-lrc",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2020-12-09T14:57:40Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "fortes/dotfiles": {
+      "nameWithOwner": "fortes/dotfiles",
+      "url": "https://github.com/fortes/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-05T13:59:56Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "FrenzyExists/Nord-dotfiles-i3": {
+      "nameWithOwner": "FrenzyExists/Nord-dotfiles-i3",
+      "url": "https://github.com/FrenzyExists/Nord-dotfiles-i3",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-03-16T07:09:15Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "freshprince/cmuscrobbler": {
+      "nameWithOwner": "freshprince/cmuscrobbler",
+      "url": "https://github.com/freshprince/cmuscrobbler",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2016-11-08T10:09:45Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "fzuellich/fish-cmus-utils": {
+      "nameWithOwner": "fzuellich/fish-cmus-utils",
+      "url": "https://github.com/fzuellich/fish-cmus-utils",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2020-07-17T04:28:54Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "gerardbm/atomic": {
+      "nameWithOwner": "gerardbm/atomic",
+      "url": "https://github.com/gerardbm/atomic",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-11-15T21:26:12Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "gerardbm/dotfiles": {
+      "nameWithOwner": "gerardbm/dotfiles",
+      "url": "https://github.com/gerardbm/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-09-27T18:19:32Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "ghosty141/gruvbox-for-cmus": {
+      "nameWithOwner": "ghosty141/gruvbox-for-cmus",
+      "url": "https://github.com/ghosty141/gruvbox-for-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2019-01-30T21:10:58Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "GideonWolfe/dots": {
+      "nameWithOwner": "GideonWolfe/dots",
+      "url": "https://github.com/GideonWolfe/dots",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2020-12-25T00:42:33Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "gmoshkin/dotfiles": {
+      "nameWithOwner": "gmoshkin/dotfiles",
+      "url": "https://github.com/gmoshkin/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-26T11:14:43Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "gontoblez/blayc": {
+      "nameWithOwner": "gontoblez/blayc",
+      "url": "https://github.com/gontoblez/blayc",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2023-07-22T12:31:01Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "gotbletu/shownotes": {
+      "nameWithOwner": "gotbletu/shownotes",
+      "url": "https://github.com/gotbletu/shownotes",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-12T06:48:40Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "GregTheMadMonk/gnome-cmus-status": {
+      "nameWithOwner": "GregTheMadMonk/gnome-cmus-status",
+      "url": "https://github.com/GregTheMadMonk/gnome-cmus-status",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-10-08T16:44:28Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "guisilvano/dotfiles": {
+      "nameWithOwner": "guisilvano/dotfiles",
+      "url": "https://github.com/guisilvano/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-06-26T12:39:37Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "gunqqer/musicScripts": {
+      "nameWithOwner": "gunqqer/musicScripts",
+      "url": "https://github.com/gunqqer/musicScripts",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-12-02T23:59:53Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "guxsousa/cmus-dynamiclistfm": {
+      "nameWithOwner": "guxsousa/cmus-dynamiclistfm",
+      "url": "https://github.com/guxsousa/cmus-dynamiclistfm",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2017-08-24T22:47:58Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "guxsousa/cmus-lyrics": {
+      "nameWithOwner": "guxsousa/cmus-lyrics",
+      "url": "https://github.com/guxsousa/cmus-lyrics",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2017-08-19T16:34:43Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "hakerdefo/cmus-lyrics": {
+      "nameWithOwner": "hakerdefo/cmus-lyrics",
+      "url": "https://github.com/hakerdefo/cmus-lyrics",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2023-01-12T16:31:30Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "ichier/cmus_app": {
+      "nameWithOwner": "ichier/cmus_app",
+      "url": "https://github.com/ichier/cmus_app",
+      "isArchived": false,
+      "isFork": true,
+      "pushedAt": "2021-01-03T00:08:31Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "ichier/cmus_daemon": {
+      "nameWithOwner": "ichier/cmus_daemon",
+      "url": "https://github.com/ichier/cmus_daemon",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-05-22T18:23:17Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "igemnace/dotfiles": {
+      "nameWithOwner": "igemnace/dotfiles",
+      "url": "https://github.com/igemnace/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-12T05:15:16Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "imagineeeinc/cmus-waybar": {
+      "nameWithOwner": "imagineeeinc/cmus-waybar",
+      "url": "https://github.com/imagineeeinc/cmus-waybar",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-07-16T19:58:53Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "index-null/cmus-lyric": {
+      "nameWithOwner": "index-null/cmus-lyric",
+      "url": "https://github.com/index-null/cmus-lyric",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-09-28T01:07:46Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "invicnaper/cmus-youtube": {
+      "nameWithOwner": "invicnaper/cmus-youtube",
+      "url": "https://github.com/invicnaper/cmus-youtube",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2020-11-07T13:33:24Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "invicnaper/spotify-dl": {
+      "nameWithOwner": "invicnaper/spotify-dl",
+      "url": "https://github.com/invicnaper/spotify-dl",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2019-11-22T15:29:50Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Iorvethe/cmus": {
+      "nameWithOwner": "Iorvethe/cmus",
+      "url": "https://github.com/Iorvethe/cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-08-25T12:26:04Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "isfanafely/dotfiles": {
+      "nameWithOwner": "isfanafely/dotfiles",
+      "url": "https://github.com/isfanafely/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-10-24T16:42:08Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "italrr/cmus-smart-lyrics": {
+      "nameWithOwner": "italrr/cmus-smart-lyrics",
+      "url": "https://github.com/italrr/cmus-smart-lyrics",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-03-24T16:31:54Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "itsjfx/cmus-fzf": {
+      "nameWithOwner": "itsjfx/cmus-fzf",
+      "url": "https://github.com/itsjfx/cmus-fzf",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-07-30T14:09:41Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "itsjfx/dotfiles": {
+      "nameWithOwner": "itsjfx/dotfiles",
+      "url": "https://github.com/itsjfx/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-21T05:45:54Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "j15k/colorcli": {
+      "nameWithOwner": "j15k/colorcli",
+      "url": "https://github.com/j15k/colorcli",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-02-18T15:46:45Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Ja4e/lyrus": {
+      "nameWithOwner": "Ja4e/lyrus",
+      "url": "https://github.com/Ja4e/lyrus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-22T15:29:31Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "jarun/nnn": {
+      "nameWithOwner": "jarun/nnn",
+      "url": "https://github.com/jarun/nnn",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-01T14:37:58Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "jatwigg/cmus-android-remote": {
+      "nameWithOwner": "jatwigg/cmus-android-remote",
+      "url": "https://github.com/jatwigg/cmus-android-remote",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2015-12-21T23:24:47Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "jboynyc/cmus_app": {
+      "nameWithOwner": "jboynyc/cmus_app",
+      "url": "https://github.com/jboynyc/cmus_app",
+      "isArchived": true,
+      "isFork": false,
+      "pushedAt": "2020-06-11T21:01:17Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "JD154/fedora-dotfiles": {
+      "nameWithOwner": "JD154/fedora-dotfiles",
+      "url": "https://github.com/JD154/fedora-dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2017-02-10T22:55:27Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "jdfight/stumpwm-cmus": {
+      "nameWithOwner": "jdfight/stumpwm-cmus",
+      "url": "https://github.com/jdfight/stumpwm-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2014-02-09T13:57:23Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "JenGoldstrich/tmux-cmus-status": {
+      "nameWithOwner": "JenGoldstrich/tmux-cmus-status",
+      "url": "https://github.com/JenGoldstrich/tmux-cmus-status",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-11-18T17:25:05Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "jimd1989/lolfm": {
+      "nameWithOwner": "jimd1989/lolfm",
+      "url": "https://github.com/jimd1989/lolfm",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-02T06:01:31Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "jmiziolek/dotfiles": {
+      "nameWithOwner": "jmiziolek/dotfiles",
+      "url": "https://github.com/jmiziolek/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-08-21T07:48:53Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "johnnymatthews/cmus-themes": {
+      "nameWithOwner": "johnnymatthews/cmus-themes",
+      "url": "https://github.com/johnnymatthews/cmus-themes",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-08-05T16:20:54Z",
+      "defaultBranchRef": {
+        "name": "yolo"
+      }
+    },
+    "jpcima/cmus-plugin-vgm": {
+      "nameWithOwner": "jpcima/cmus-plugin-vgm",
+      "url": "https://github.com/jpcima/cmus-plugin-vgm",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2020-01-08T05:23:40Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "KabbAmine/unite-cmus": {
+      "nameWithOwner": "KabbAmine/unite-cmus",
+      "url": "https://github.com/KabbAmine/unite-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2016-05-17T17:37:11Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Kaleb0x/cmus-syncthing": {
+      "nameWithOwner": "Kaleb0x/cmus-syncthing",
+      "url": "https://github.com/Kaleb0x/cmus-syncthing",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-08-15T21:44:39Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "kalenpw/CmusRemoteAndroid": {
+      "nameWithOwner": "kalenpw/CmusRemoteAndroid",
+      "url": "https://github.com/kalenpw/CmusRemoteAndroid",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2017-03-17T23:47:39Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "karlstav/cava": {
+      "nameWithOwner": "karlstav/cava",
+      "url": "https://github.com/karlstav/cava",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-01T21:26:21Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "kesor/tmux-player-ctl": {
+      "nameWithOwner": "kesor/tmux-player-ctl",
+      "url": "https://github.com/kesor/tmux-player-ctl",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-04-06T19:41:36Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "kidsil/cmus-shuffled-albums": {
+      "nameWithOwner": "kidsil/cmus-shuffled-albums",
+      "url": "https://github.com/kidsil/cmus-shuffled-albums",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2023-08-30T18:16:23Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "kimond/cmustify": {
+      "nameWithOwner": "kimond/cmustify",
+      "url": "https://github.com/kimond/cmustify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-10-02T01:48:16Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "kimond/go-cmustify": {
+      "nameWithOwner": "kimond/go-cmustify",
+      "url": "https://github.com/kimond/go-cmustify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2017-11-09T03:45:32Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "kimond/pycmustify": {
+      "nameWithOwner": "kimond/pycmustify",
+      "url": "https://github.com/kimond/pycmustify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2016-05-24T14:02:38Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "kimond/rust_cmustify": {
+      "nameWithOwner": "kimond/rust_cmustify",
+      "url": "https://github.com/kimond/rust_cmustify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-06-17T01:29:57Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "kushagraa-j/cmusf": {
+      "nameWithOwner": "kushagraa-j/cmusf",
+      "url": "https://github.com/kushagraa-j/cmusf",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-01-31T08:51:31Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "LaurentFough/cmusCoversSDL": {
+      "nameWithOwner": "LaurentFough/cmusCoversSDL",
+      "url": "https://github.com/LaurentFough/cmusCoversSDL",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2019-06-19T20:15:54Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "logico/typewriter-cmus": {
+      "nameWithOwner": "logico/typewriter-cmus",
+      "url": "https://github.com/logico/typewriter-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2019-05-01T19:51:02Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "ma3ke/go-cmus-polybar-status": {
+      "nameWithOwner": "ma3ke/go-cmus-polybar-status",
+      "url": "https://github.com/ma3ke/go-cmus-polybar-status",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2020-06-06T19:58:37Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Maka8295/Dotfiles": {
+      "nameWithOwner": "Maka8295/Dotfiles",
+      "url": "https://github.com/Maka8295/Dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-05T16:45:00Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "mathieu-lemay/cmus-notify": {
+      "nameWithOwner": "mathieu-lemay/cmus-notify",
+      "url": "https://github.com/mathieu-lemay/cmus-notify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-12-16T14:07:38Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "maximtrp/ranger-cmus": {
+      "nameWithOwner": "maximtrp/ranger-cmus",
+      "url": "https://github.com/maximtrp/ranger-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-05-23T19:42:33Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "meh/ruby-cmus": {
+      "nameWithOwner": "meh/ruby-cmus",
+      "url": "https://github.com/meh/ruby-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2012-06-22T16:09:20Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "mesalilac/cmus-rpc": {
+      "nameWithOwner": "mesalilac/cmus-rpc",
+      "url": "https://github.com/mesalilac/cmus-rpc",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-12-08T13:04:14Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "mihaiolteanu/bash-lyrics": {
+      "nameWithOwner": "mihaiolteanu/bash-lyrics",
+      "url": "https://github.com/mihaiolteanu/bash-lyrics",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2017-03-30T17:17:57Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "mimame/.dotfiles": {
+      "nameWithOwner": "mimame/.dotfiles",
+      "url": "https://github.com/mimame/.dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-05T12:08:58Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "miraclx/cmusd": {
+      "nameWithOwner": "miraclx/cmusd",
+      "url": "https://github.com/miraclx/cmusd",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2019-07-15T23:42:23Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "mitrovicstefan/cmus-artwork": {
+      "nameWithOwner": "mitrovicstefan/cmus-artwork",
+      "url": "https://github.com/mitrovicstefan/cmus-artwork",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-09-04T20:56:37Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "mjc-506/cmus-album-shuffle": {
+      "nameWithOwner": "mjc-506/cmus-album-shuffle",
+      "url": "https://github.com/mjc-506/cmus-album-shuffle",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2017-11-28T13:31:28Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "monoira/.dotfiles": {
+      "nameWithOwner": "monoira/.dotfiles",
+      "url": "https://github.com/monoira/.dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-06T07:55:05Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "moonwave99/CMusRemote": {
+      "nameWithOwner": "moonwave99/CMusRemote",
+      "url": "https://github.com/moonwave99/CMusRemote",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2013-02-19T16:25:14Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Mpdreamz/tmux-cmus": {
+      "nameWithOwner": "Mpdreamz/tmux-cmus",
+      "url": "https://github.com/Mpdreamz/tmux-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2016-03-24T10:45:58Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "mrdotx/dotfiles": {
+      "nameWithOwner": "mrdotx/dotfiles",
+      "url": "https://github.com/mrdotx/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-06T04:37:37Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "mtreinish/pycmus": {
+      "nameWithOwner": "mtreinish/pycmus",
+      "url": "https://github.com/mtreinish/pycmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2019-11-20T00:24:28Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "mxdevmanuel/dotfiles": {
+      "nameWithOwner": "mxdevmanuel/dotfiles",
+      "url": "https://github.com/mxdevmanuel/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-07-28T13:29:47Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "mzivic7/spectroterm": {
+      "nameWithOwner": "sparklost/spectroterm",
+      "url": "https://github.com/sparklost/spectroterm",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-08-07T08:42:28Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "natezb/beets-cmusupdate": {
+      "nameWithOwner": "natezb/beets-cmusupdate",
+      "url": "https://github.com/natezb/beets-cmusupdate",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2017-08-19T18:18:27Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "nblock/cmus-notify": {
+      "nameWithOwner": "nblock/cmus-notify",
+      "url": "https://github.com/nblock/cmus-notify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2013-01-02T10:23:14Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "newmanls/dotfiles": {
+      "nameWithOwner": "newmanls/dotfiles",
+      "url": "https://github.com/newmanls/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-08-26T05:08:34Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "nkanaev/cmusie": {
+      "nameWithOwner": "nkanaev/cmusie",
+      "url": "https://github.com/nkanaev/cmusie",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2023-03-27T11:40:25Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Noah2610/cmus-status-line": {
+      "nameWithOwner": "Noah2610/cmus-status-line",
+      "url": "https://github.com/Noah2610/cmus-status-line",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-09-24T07:58:29Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "nogizhopaboroda/cmus-bundler": {
+      "nameWithOwner": "nogizhopaboroda/cmus-bundler",
+      "url": "https://github.com/nogizhopaboroda/cmus-bundler",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2015-08-31T12:40:51Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "nogizhopaboroda/cmus-cover-art": {
+      "nameWithOwner": "nogizhopaboroda/cmus-cover-art",
+      "url": "https://github.com/nogizhopaboroda/cmus-cover-art",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-02-13T13:28:45Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "nogizhopaboroda/cmus-mediakeys": {
+      "nameWithOwner": "nogizhopaboroda/cmus-mediakeys",
+      "url": "https://github.com/nogizhopaboroda/cmus-mediakeys",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2016-07-26T08:45:26Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "nordic16/cmus-cheat-sheet": {
+      "nameWithOwner": "nordic16/cmus-cheat-sheet",
+      "url": "https://github.com/nordic16/cmus-cheat-sheet",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-03-06T17:42:04Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "ok100/lyvi": {
+      "nameWithOwner": "ok100/lyvi",
+      "url": "https://github.com/ok100/lyvi",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-06-09T07:54:46Z",
+      "defaultBranchRef": {
+        "name": "legacy"
+      }
+    },
+    "OliverHofkens/cmus-liner": {
+      "nameWithOwner": "OliverHofkens/cmus-liner",
+      "url": "https://github.com/OliverHofkens/cmus-liner",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-01-10T08:11:57Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "Openmentia/lyriccli": {
+      "nameWithOwner": "Openmentia/lyriccli",
+      "url": "https://github.com/Openmentia/lyriccli",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-01-24T03:50:31Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "pascalpuffke/cmus-rich-presence": {
+      "nameWithOwner": "pascalpuffke/cmus-rich-presence",
+      "url": "https://github.com/pascalpuffke/cmus-rich-presence",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-03-20T20:25:02Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "pascalpuffke/cmusrp-rust": {
+      "nameWithOwner": "pascalpuffke/cmusrp-rust",
+      "url": "https://github.com/pascalpuffke/cmusrp-rust",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-03-24T21:28:48Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "pekrockstar/cmus-lyric": {
+      "nameWithOwner": "pekrockstar/cmus-lyric",
+      "url": "https://github.com/pekrockstar/cmus-lyric",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-12-11T07:57:31Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "pgaskin/barlib": {
+      "nameWithOwner": "pgaskin/barlib",
+      "url": "https://github.com/pgaskin/barlib",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-05-02T19:56:02Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "pgaskin/cmus": {
+      "nameWithOwner": "pgaskin/cmus",
+      "url": "https://github.com/pgaskin/cmus",
+      "isArchived": false,
+      "isFork": true,
+      "pushedAt": "2026-10-10T08:15:01Z",
+      "defaultBranchRef": {
+        "name": "exp"
+      }
+    },
+    "pgaskin/cmus-android": {
+      "nameWithOwner": "pgaskin/cmus-android",
+      "url": "https://github.com/pgaskin/cmus-android",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-30T14:07:06Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "PhilipTrauner/cmus-osx": {
+      "nameWithOwner": "PhilipTrauner/cmus-osx",
+      "url": "https://github.com/PhilipTrauner/cmus-osx",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-06-04T15:07:39Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Poroing/gruvbox-cmus-theme": {
+      "nameWithOwner": "Poroing/gruvbox-cmus-theme",
+      "url": "https://github.com/Poroing/gruvbox-cmus-theme",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2016-06-02T04:50:22Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "professorsloth/cmus-remote-vim": {
+      "nameWithOwner": "professorsloth/cmus-remote-vim",
+      "url": "https://github.com/professorsloth/cmus-remote-vim",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2013-01-05T04:28:59Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "qrti/tosh": {
+      "nameWithOwner": "qrti/tosh",
+      "url": "https://github.com/qrti/tosh",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2016-05-05T13:28:52Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "raycast/script-commands": {
+      "nameWithOwner": "raycast/script-commands",
+      "url": "https://github.com/raycast/script-commands",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-09-21T09:21:43Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "raytruong/polybar-cmus": {
+      "nameWithOwner": "raytruong/polybar-cmus",
+      "url": "https://github.com/raytruong/polybar-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-05-26T20:20:38Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "rncbc/qpwgraph": {
+      "nameWithOwner": "rncbc/qpwgraph",
+      "url": "https://github.com/rncbc/qpwgraph",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-23T09:42:34Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "roistaff/cmus-plugins": {
+      "nameWithOwner": "roistaff/cmus-plugins",
+      "url": "https://github.com/roistaff/cmus-plugins",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-05-13T06:42:43Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "ronno/scripts": null,
+    "S0yKaf/cmus_hexchat": {
+      "nameWithOwner": "S0yKaf/cmus_hexchat",
+      "url": "https://github.com/S0yKaf/cmus_hexchat",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2014-11-18T09:01:30Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "S22F5/cmus_sixel": {
+      "nameWithOwner": "S22F5/cmus_sixel",
+      "url": "https://github.com/S22F5/cmus_sixel",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-07-16T10:39:28Z",
+      "defaultBranchRef": {
+        "name": "c"
+      }
+    },
+    "sagotsky/.dotfiles": {
+      "nameWithOwner": "sagotsky/.dotfiles",
+      "url": "https://github.com/sagotsky/.dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-09-01T13:33:29Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "saibakho/cmrpc": {
+      "nameWithOwner": "saibakho/cmrpc",
+      "url": "https://github.com/saibakho/cmrpc",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2023-05-18T17:13:13Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "samdmarshall/cmus-airpods": {
+      "nameWithOwner": "samdmarshall/cmus-airpods",
+      "url": "https://github.com/samdmarshall/cmus-airpods",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2017-03-05T05:15:07Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "samhal/cmus-sync": {
+      "nameWithOwner": "samhal/cmus-sync",
+      "url": "https://github.com/samhal/cmus-sync",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2015-09-11T19:43:01Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Scallion3008/cmus-discord-rich-presence": {
+      "nameWithOwner": "Scallion3008/cmus-discord-rich-presence",
+      "url": "https://github.com/Scallion3008/cmus-discord-rich-presence",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-05-28T17:35:44Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "sebbas/music-controls-bitbar": {
+      "nameWithOwner": "sebbas/music-controls-bitbar",
+      "url": "https://github.com/sebbas/music-controls-bitbar",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-03-17T16:35:50Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "sebojanko/CmusNotify": {
+      "nameWithOwner": "sebojanko/CmusNotify",
+      "url": "https://github.com/sebojanko/CmusNotify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-05-13T10:11:24Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Sekki21956/cmus": {
+      "nameWithOwner": "Sekki21956/cmus",
+      "url": "https://github.com/Sekki21956/cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-04-28T11:23:40Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "SeniorMars/dotfiles": {
+      "nameWithOwner": "SeniorMars/dotfiles",
+      "url": "https://github.com/SeniorMars/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-06-22T03:11:28Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "sergii-dudar/dotfiles": {
+      "nameWithOwner": "sergii-dudar/dotfiles",
+      "url": "https://github.com/sergii-dudar/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-06T09:21:29Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "seriousben/cmus-droid-remote": {
+      "nameWithOwner": "seriousben/cmus-droid-remote",
+      "url": "https://github.com/seriousben/cmus-droid-remote",
+      "isArchived": true,
+      "isFork": false,
+      "pushedAt": "2015-01-27T17:50:36Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "ShrekhavingabadDay/cmus-nordic_theme": {
+      "nameWithOwner": "ShrekhavingabadDay/cmus-nordic_theme",
+      "url": "https://github.com/ShrekhavingabadDay/cmus-nordic_theme",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-04-07T18:01:39Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "sparklost/cmus-auto-lyrics": {
+      "nameWithOwner": "sparklost/cmus-auto-lyrics",
+      "url": "https://github.com/sparklost/cmus-auto-lyrics",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-08-17T22:24:36Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "sparklost/cmus-rpc-py": {
+      "nameWithOwner": "sparklost/cmus-rpc-py",
+      "url": "https://github.com/sparklost/cmus-rpc-py",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-05T18:49:06Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "ssh0/dotfiles": {
+      "nameWithOwner": "ssh0/dotfiles",
+      "url": "https://github.com/ssh0/dotfiles",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-09-21T15:57:48Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "stewart/cmus": {
+      "nameWithOwner": "stewart/cmus",
+      "url": "https://github.com/stewart/cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2016-07-30T05:41:06Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "SubhadeepJasu/CMUS-themes-pantheon-terminal": {
+      "nameWithOwner": "SubhadeepJasu/CMUS-themes-pantheon-terminal",
+      "url": "https://github.com/SubhadeepJasu/CMUS-themes-pantheon-terminal",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-02-15T10:22:22Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "the-anonymous-raven/cmus-polybar": {
+      "nameWithOwner": "the-anonymous-raven/cmus-polybar",
+      "url": "https://github.com/the-anonymous-raven/cmus-polybar",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-07-07T11:47:54Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "TheFox/cmus-control": {
+      "nameWithOwner": "TheFox/cmus-control",
+      "url": "https://github.com/TheFox/cmus-control",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-23T19:33:54Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "thriveth/Gruvbox-goodies": {
+      "nameWithOwner": "thriveth/Gruvbox-goodies",
+      "url": "https://github.com/thriveth/Gruvbox-goodies",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-12-09T00:20:16Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "timdubbins/tap": {
+      "nameWithOwner": "timdubbins/tap",
+      "url": "https://github.com/timdubbins/tap",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-08-24T15:14:59Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "TiredSounds/cmus-conky": {
+      "nameWithOwner": "TiredSounds/cmus-conky",
+      "url": "https://github.com/TiredSounds/cmus-conky",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-03-21T11:02:25Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "TiredSounds/cmus-scripts": {
+      "nameWithOwner": "TiredSounds/cmus-scripts",
+      "url": "https://github.com/TiredSounds/cmus-scripts",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2015-12-22T18:57:28Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "trizen/clyrics": {
+      "nameWithOwner": "trizen/clyrics",
+      "url": "https://github.com/trizen/clyrics",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-10-25T14:09:40Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "ttntm/cmus-kanagawa": {
+      "nameWithOwner": "ttntm/cmus-kanagawa",
+      "url": "https://github.com/ttntm/cmus-kanagawa",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2024-04-08T08:46:16Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "ttntm/cmus-tokyo-night": {
+      "nameWithOwner": "ttntm/cmus-tokyo-night",
+      "url": "https://github.com/ttntm/cmus-tokyo-night",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-11-03T13:19:36Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "tuxfrickler/cmus2mysql": {
+      "nameWithOwner": "tuxfrickler/cmus2mysql",
+      "url": "https://github.com/tuxfrickler/cmus2mysql",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2012-10-28T19:52:28Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "viatatribal/cmus-youtube": {
+      "nameWithOwner": "viatatribal/cmus-youtube",
+      "url": "https://github.com/viatatribal/cmus-youtube",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2023-09-30T09:36:52Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "Vizkid04/cmus_cover_art": {
+      "nameWithOwner": "Vizkid04/cmus_cover_art",
+      "url": "https://github.com/Vizkid04/cmus_cover_art",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-10T15:17:15Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "vjeranc/cmus-status-scrobbler": {
+      "nameWithOwner": "vjeranc/cmus-status-scrobbler",
+      "url": "https://github.com/vjeranc/cmus-status-scrobbler",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-01T14:51:16Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "vojdel/rofi-cmus": {
+      "nameWithOwner": "vojdel/rofi-cmus",
+      "url": "https://github.com/vojdel/rofi-cmus",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2021-06-27T20:17:14Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "VonHeikemen/cmus-notify": {
+      "nameWithOwner": "VonHeikemen/cmus-notify",
+      "url": "https://github.com/VonHeikemen/cmus-notify",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2019-11-01T17:32:48Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "WaylonWalker/devtainer": {
+      "nameWithOwner": "WaylonWalker/devtainer",
+      "url": "https://github.com/WaylonWalker/devtainer",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-10-26T00:22:09Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "wdog/cmus_lyrics": {
+      "nameWithOwner": "wdog/cmus_lyrics",
+      "url": "https://github.com/wdog/cmus_lyrics",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2022-12-08T07:37:14Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "weisslj/cmus_lastfm_autoadd": {
+      "nameWithOwner": "weisslj/cmus_lastfm_autoadd",
+      "url": "https://github.com/weisslj/cmus_lastfm_autoadd",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2023-02-03T21:32:47Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "wwmm/easyeffects": {
+      "nameWithOwner": "wwmm/easyeffects",
+      "url": "https://github.com/wwmm/easyeffects",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-06T12:03:10Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "yaronzz/Tidal-Media-Downloader": {
+      "nameWithOwner": "yaronzz/Tidal-Media-Downloader",
+      "url": "https://github.com/yaronzz/Tidal-Media-Downloader",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-10-17T03:41:40Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "YellowCoat1/cmus-drp": {
+      "nameWithOwner": "YellowCoat1/cmus-drp",
+      "url": "https://github.com/YellowCoat1/cmus-drp",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-05-19T04:57:04Z",
+      "defaultBranchRef": {
+        "name": "main"
+      }
+    },
+    "yt-dlp/yt-dlp": {
+      "nameWithOwner": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2026-11-04T07:16:27Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "ywh233/cmus-client-cpp": {
+      "nameWithOwner": "ywh233/cmus-client-cpp",
+      "url": "https://github.com/ywh233/cmus-client-cpp",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2018-03-04T08:25:17Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    },
+    "ZirixCZ/cmus-rpc-c": {
+      "nameWithOwner": "ZirixCZ/cmus-rpc-c",
+      "url": "https://github.com/ZirixCZ/cmus-rpc-c",
+      "isArchived": false,
+      "isFork": false,
+      "pushedAt": "2025-09-11T18:48:46Z",
+      "defaultBranchRef": {
+        "name": "master"
+      }
+    }
+  }
+}

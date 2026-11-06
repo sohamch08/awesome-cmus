@@ -1,0 +1,3094 @@
+{
+  "collected_on": "2026-11-06",
+  "links": [
+    {
+      "url": "https://cmus.github.io/",
+      "labels": [
+        "website",
+        "Native stream and playlist support"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/blob/master/Doc/cmus.txt",
+      "labels": [
+        "manual",
+        "Full manual",
+        "current manual",
+        "Upstream warning",
+        "Upstream manual"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/blob/master/Doc/cmus-remote.txt",
+      "labels": [
+        "remote manual",
+        "cmus-remote manual"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/releases/tag/v2.13.0",
+      "labels": [
+        "cmus 2.13.0"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus",
+      "labels": [
+        "Main repository"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/blob/master/Doc/cmus-tutorial.txt",
+      "labels": [
+        "Official tutorial"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki",
+      "labels": [
+        "Extension wiki"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/status-display-programs",
+      "labels": [
+        "Status display programs"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/shell-scripts",
+      "labels": [
+        "Bindable scripts"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/index-null/cmus-lyric",
+      "labels": [
+        "index-null/cmus-lyric",
+        "Screenshots and project"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sparklost/cmus-auto-lyrics",
+      "labels": [
+        "cmus-auto-lyrics"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Ja4e/lyrus",
+      "labels": [
+        "lyrus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/trizen/clyrics",
+      "labels": [
+        "clyrics"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ok100/lyvi",
+      "labels": [
+        "lyvi"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/OliverHofkens/cmus-liner",
+      "labels": [
+        "cmus-liner",
+        "Side-by-side screenshot and companion"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/hakerdefo/cmus-lyrics",
+      "labels": [
+        "hakerdefo/cmus-lyrics"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/guxsousa/cmus-lyrics",
+      "labels": [
+        "guxsousa/cmus-lyrics"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/italrr/cmus-smart-lyrics",
+      "labels": [
+        "cmus-smart-lyrics"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/wdog/cmus_lyrics",
+      "labels": [
+        "wdog/cmus_lyrics"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/fooyou/cmus-lrc",
+      "labels": [
+        "cmus-lrc"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/pekrockstar/cmus-lyric",
+      "labels": [
+        "pekrockstar/cmus-lyric"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Openmentia/lyriccli",
+      "labels": [
+        "lyriccli"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mihaiolteanu/bash-lyrics",
+      "labels": [
+        "bash-lyrics"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/alewmoose/show-lyrics",
+      "labels": [
+        "show-lyrics"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Endg4meZer0/lrcsnc",
+      "labels": [
+        "lrcsnc"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/nogizhopaboroda/cmus-cover-art",
+      "labels": [
+        "cmus-cover-art"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/S22F5/cmus_sixel",
+      "labels": [
+        "S22F5/cmus_sixel",
+        "Demo and implementation"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/emp1r3/cmus-sixel",
+      "labels": [
+        "emp1r3/cmus-sixel",
+        "Screenshots and script"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Vizkid04/cmus_cover_art",
+      "labels": [
+        "Vizkid04/cmus_cover_art",
+        "README and preview"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mitrovicstefan/cmus-artwork",
+      "labels": [
+        "cmus-artwork"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/arisu-gh/cmusinfo",
+      "labels": [
+        "cmusinfo"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/LaurentFough/cmusCoversSDL",
+      "labels": [
+        "cmusCoversSDL surviving fork"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/TiredSounds/cmus-scripts/blob/master/cmus-feh.sh",
+      "labels": [
+        "cmus-feh.sh"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/TiredSounds/cmus-scripts",
+      "labels": [
+        "TiredSounds/cmus-scripts"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/TiredSounds/cmus-conky",
+      "labels": [
+        "TiredSounds/cmus-conky"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gunqqer/musicScripts",
+      "labels": [
+        "Gunqqer's musicScripts"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/kushagraa-j/cmusf",
+      "labels": [
+        "cmusf"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Coreball/cmus-swift",
+      "labels": [
+        "cmus-swift"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/TheFox/cmus-control",
+      "labels": [
+        "cmus-control"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/PhilipTrauner/cmus-osx",
+      "labels": [
+        "cmus-osx"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/nkanaev/cmusie",
+      "labels": [
+        "cmusie"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/raycast/script-commands/tree/master/commands/media/cmus",
+      "labels": [
+        "Raycast cmus scripts"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sebbas/music-controls-bitbar",
+      "labels": [
+        "music-controls-bitbar"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/samdmarshall/cmus-airpods",
+      "labels": [
+        "cmus-airpods"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/moonwave99/CMusRemote",
+      "labels": [
+        "CMusRemote"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/itunes_notify.c",
+      "labels": [
+        "itunes_notify.c"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/FelixKratz/SketchyBar",
+      "labels": [
+        "SketchyBar"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/karlstav/cava",
+      "labels": [
+        "CAVA"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mzivic7/spectroterm",
+      "labels": [
+        "spectroterm"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/roistaff/cmus-plugins",
+      "labels": [
+        "roistaff/cmus-plugins",
+        "Demo and scripts"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/AlBurns-MSFT/cmus-visualizer",
+      "labels": [
+        "cmus-visualizer"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/CreativeCodeCat/cmusfetcher500",
+      "labels": [
+        "cmusfetcher500"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ExistentialAudio/BlackHole",
+      "labels": [
+        "BlackHole"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/karlstav/cava#macos-2",
+      "labels": [
+        "CAVA capture documentation"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/arkq/cmusfm",
+      "labels": [
+        "cmusfm"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/vjeranc/cmus-status-scrobbler",
+      "labels": [
+        "cmus-status-scrobbler"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://listenbrainz.org/add-data/",
+      "labels": [
+        "ListenBrainz integration directory"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/jimd1989/lolfm",
+      "labels": [
+        "lolfm"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus_music_monitor",
+      "labels": [
+        "cmus_music_monitor"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://community.metabrainz.org/t/checking-minimal-json-submission/723460",
+      "labels": [
+        "ListenBrainz shell-submitter discussion"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/freshprince/cmuscrobbler",
+      "labels": [
+        "cmuscrobbler"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus_lastfmsubmit",
+      "labels": [
+        "cmus_lastfmsubmit"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/tuxfrickler/cmus2mysql",
+      "labels": [
+        "cmus2mysql"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/weisslj/cmus_lastfm_autoadd",
+      "labels": [
+        "cmus_lastfm_autoadd"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/guxsousa/cmus-dynamiclistfm",
+      "labels": [
+        "cmus-dynamiclistfm"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/kidsil/cmus-shuffled-albums",
+      "labels": [
+        "cmus-shuffled-albums"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mjc-506/cmus-album-shuffle",
+      "labels": [
+        "cmus-album-shuffle"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://beets.readthedocs.io/en/stable/plugins/smartplaylist.html",
+      "labels": [
+        "beets Smart Playlist"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/itsjfx/cmus-fzf",
+      "labels": [
+        "cmus-fzf",
+        "cmus-fzf demo"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/vojdel/rofi-cmus",
+      "labels": [
+        "rofi-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/maximtrp/ranger-cmus",
+      "labels": [
+        "ranger-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/jarun/nnn/blob/master/plugins/cmusq",
+      "labels": [
+        "nnn's cmusq plugin"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/azadkuh/vim-cmus",
+      "labels": [
+        "vim-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/professorsloth/cmus-remote-vim",
+      "labels": [
+        "cmus-remote-vim"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/KabbAmine/unite-cmus",
+      "labels": [
+        "unite-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/alexxGmZ/player.nvim",
+      "labels": [
+        "player.nvim"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus-enjoyers/cmus.nvim",
+      "labels": [
+        "cmus.nvim"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/fzuellich/fish-cmus-utils",
+      "labels": [
+        "fish-cmus-utils"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gontoblez/blayc",
+      "labels": [
+        "blayc",
+        "blayc README"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://gist.github.com/igemnace/9b6fb8c2885c3e35299b3a122e1009e5",
+      "labels": [
+        "FZF snippets gist"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/detachable-cmus",
+      "labels": [
+        "Detachable cmus guide"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Mpdreamz/tmux-cmus",
+      "labels": [
+        "Mpdreamz/tmux-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/JenGoldstrich/tmux-cmus-status",
+      "labels": [
+        "tmux-cmus-status"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/kesor/tmux-player-ctl",
+      "labels": [
+        "tmux-player-ctl"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ichier/cmus_daemon",
+      "labels": [
+        "cmus_daemon"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sparklost/cmus-auto-lyrics#launcher",
+      "labels": [
+        "cmus-auto-lyrics launcher examples"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/itsjfx/cmus-fzf#tmux-popup",
+      "labels": [
+        "cmus-fzf popup examples"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/dcx86r/cmus-notify",
+      "labels": [
+        "dcx86r/cmus-notify"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/AntoineGagne/cmus-notify",
+      "labels": [
+        "AntoineGagne/cmus-notify"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mathieu-lemay/cmus-notify",
+      "labels": [
+        "mathieu-lemay/cmus-notify"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/0x61nas/cmus-notify",
+      "labels": [
+        "0x61nas/cmus-notify"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Dimithrandir/cmushnotify",
+      "labels": [
+        "cmushnotify"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sebojanko/CmusNotify",
+      "labels": [
+        "CmusNotify"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/VonHeikemen/cmus-notify",
+      "labels": [
+        "VonHeikemen/cmus-notify"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://gist.github.com/EmmaSimon/a617df1b86c558162e4c934ff65cebe1",
+      "labels": [
+        "cmus_notify.py gist"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Noah2610/cmus-status-line",
+      "labels": [
+        "cmus-status-line"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/miraclx/cmusd",
+      "labels": [
+        "cmusd"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/kimond/cmustify",
+      "labels": [
+        "cmustify"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/kimond/pycmustify",
+      "labels": [
+        "Python"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/kimond/go-cmustify",
+      "labels": [
+        "Go"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/kimond/rust_cmustify",
+      "labels": [
+        "Rust"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/altdesktop/playerctl",
+      "labels": [
+        "playerctl"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/arran4/go-playerctl",
+      "labels": [
+        "go-playerctl"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/raytruong/polybar-cmus",
+      "labels": [
+        "polybar-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/the-anonymous-raven/cmus-polybar",
+      "labels": [
+        "cmus-polybar"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ma3ke/go-cmus-polybar-status",
+      "labels": [
+        "go-cmus-polybar-status"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/imagineeeinc/cmus-waybar",
+      "labels": [
+        "cmus-waybar"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://ultrabug.github.io/py3status/user-guide/modules/#cmus",
+      "labels": [
+        "py3status cmus module"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/GregTheMadMonk/gnome-cmus-status",
+      "labels": [
+        "gnome-cmus-status"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ronno/scripts/blob/master/xsetcmus.sh",
+      "labels": [
+        "xsetcmus.sh"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/jdfight/stumpwm-cmus",
+      "labels": [
+        "stumpwm-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/Awesome-DM-widget",
+      "labels": [
+        "Awesome widget example"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/nblock/cmus-notify",
+      "labels": [
+        "nblock/cmus-notify"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sparklost/cmus-rpc-py",
+      "labels": [
+        "cmus-rpc-py"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Bond-009/cmus-discord-rpc",
+      "labels": [
+        "Bond-009/cmus-discord-rpc"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/FichteFoll/discordrp-mpris",
+      "labels": [
+        "discordrp-mpris"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ZirixCZ/cmus-rpc-c",
+      "labels": [
+        "cmus-rpc-c"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mesalilac/cmus-rpc",
+      "labels": [
+        "mesalilac/cmus-rpc"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/pascalpuffke/cmus-rich-presence",
+      "labels": [
+        "pascalpuffke/cmus-rich-presence"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/pascalpuffke/cmusrp-rust",
+      "labels": [
+        "pascalpuffke/cmusrp-rust"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/YellowCoat1/cmus-drp",
+      "labels": [
+        "YellowCoat1/cmus-drp"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/FawkesOficial/cmus-discord-rpc",
+      "labels": [
+        "FawkesOficial/cmus-discord-rpc"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Scallion3008/cmus-discord-rich-presence",
+      "labels": [
+        "Scallion3008/cmus-discord-rich-presence"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/saibakho/cmrpc",
+      "labels": [
+        "saibakho/cmrpc"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/0x61nas/cmus-rpc-rs",
+      "labels": [
+        "0x61nas/cmus-rpc-rs"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/0x61nas/cmus-rpc",
+      "labels": [
+        "0x61nas/cmus-rpc"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/S0yKaf/cmus_hexchat",
+      "labels": [
+        "cmus_hexchat"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/FawkesOficial/cmus-web",
+      "labels": [
+        "cmus-web"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ichier/cmus_app",
+      "labels": [
+        "ichier/cmus_app"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/jboynyc/cmus_app",
+      "labels": [
+        "Original cmus_app"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://jasonwoof.com/gitweb/?p=cmus-lan-control.git;a=summary",
+      "labels": [
+        "cmus-lan-control"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/jatwigg/cmus-android-remote",
+      "labels": [
+        "cmus-android-remote"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/kalenpw/CmusRemoteAndroid",
+      "labels": [
+        "CmusRemoteAndroid"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/seriousben/cmus-droid-remote",
+      "labels": [
+        "cmus-droid-remote"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/qrti/tosh",
+      "labels": [
+        "Tosh"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/pgaskin/cmus-android",
+      "labels": [
+        "cmus-android"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://gitlab.com/castluno/cmus-notifier",
+      "labels": [
+        "cmus-notifier for Termux"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Kaleb0x/cmus-syncthing",
+      "labels": [
+        "cmus-syncthing"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/samhal/cmus-sync",
+      "labels": [
+        "cmus-sync"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/natezb/beets-cmusupdate",
+      "labels": [
+        "beets-cmusupdate"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://beets.readthedocs.io/en/stable/plugins/play.html",
+      "labels": [
+        "beets Play plugin"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://beets.readthedocs.io/en/stable/",
+      "labels": [
+        "beets"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://beets.readthedocs.io/en/stable/plugins/fetchart.html",
+      "labels": [
+        "beets FetchArt"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://beets.readthedocs.io/en/stable/plugins/embedart.html",
+      "labels": [
+        "beets EmbedArt"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://beets.readthedocs.io/en/stable/plugins/lyrics.html",
+      "labels": [
+        "beets Lyrics"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://beets.readthedocs.io/en/stable/plugins/replaygain.html",
+      "labels": [
+        "beets ReplayGain"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://beets.readthedocs.io/en/stable/plugins/duplicates.html",
+      "labels": [
+        "beets Duplicates"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://picard.musicbrainz.org/",
+      "labels": [
+        "MusicBrainz Picard"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/complexlogic/rsgain",
+      "labels": [
+        "rsgain"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/wwmm/easyeffects",
+      "labels": [
+        "EasyEffects"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/rncbc/qpwgraph",
+      "labels": [
+        "qpwgraph"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/johnnymatthews/cmus-themes",
+      "labels": [
+        "johnnymatthews/cmus-themes"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/tree/master",
+      "labels": [
+        "Bundled cmus themes"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/catppuccin/catppuccin/discussions/1954",
+      "labels": [
+        "Catppuccin discussion and variants"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Sekki21956/cmus",
+      "labels": [
+        "Sekki21956/cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/BXn4/cmus",
+      "labels": [
+        "BXn4/cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ttntm/cmus-tokyo-night",
+      "labels": [
+        "cmus-tokyo-night"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ttntm/cmus-kanagawa",
+      "labels": [
+        "cmus-kanagawa"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/egel/cmus-gruvbox",
+      "labels": [
+        "egel/cmus-gruvbox"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/thriveth/Gruvbox-goodies",
+      "labels": [
+        "Gruvbox-goodies"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ghosty141/gruvbox-for-cmus",
+      "labels": [
+        "ghosty141/gruvbox-for-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Poroing/gruvbox-cmus-theme",
+      "labels": [
+        "Poroing/gruvbox-cmus-theme"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/e-ink-colorscheme/e-ink.cmus",
+      "labels": [
+        "e-ink.cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/logico/typewriter-cmus",
+      "labels": [
+        "typewriter-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gerardbm/atomic",
+      "labels": [
+        "Atomic",
+        "Atomic theme suite"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/j15k/colorcli",
+      "labels": [
+        "colorcli"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/averms/base16-cmus",
+      "labels": [
+        "base16-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/drewvanstone/cmus-base16",
+      "labels": [
+        "cmus-base16"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ShrekhavingabadDay/cmus-nordic_theme",
+      "labels": [
+        "cmus-nordic_theme"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/SubhadeepJasu/CMUS-themes-pantheon-terminal",
+      "labels": [
+        "Pantheon Terminal themes"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/alextercete/cmus-theme-screenshot",
+      "labels": [
+        "cmus-theme-screenshot"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://gist.github.com/giobyte8/257ccbd627ac41a25711",
+      "labels": [
+        "Solarized-derived readability theme"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Iorvethe/cmus",
+      "labels": [
+        "Iorvethe/cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/themes",
+      "labels": [
+        "theme instructions"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/at8i/cmus-setup",
+      "labels": [
+        "at8i/cmus-setup",
+        "Full setup and preview"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gerardbm/dotfiles",
+      "labels": [
+        "gerardbm/dotfiles",
+        "Setup and screenshots"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/fortes/dotfiles",
+      "labels": [
+        "fortes/dotfiles",
+        "Current repository"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/bardisty/dotfiles",
+      "labels": [
+        "bardisty/dotfiles"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Cybersnake223/Hypr",
+      "labels": [
+        "Cybersnake223/Hypr",
+        "Full environment"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ahloiscreamo/Illit",
+      "labels": [
+        "ahloiscreamo/Illit"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/FrenzyExists/Nord-dotfiles-i3",
+      "labels": [
+        "FrenzyExists/Nord-dotfiles-i3",
+        "Screenshots"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/dfmgr/cmus",
+      "labels": [
+        "dfmgr/cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus%E2%80%90bookmark",
+      "labels": [
+        "cmus bookmark script"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus_edit_tags",
+      "labels": [
+        "cmus_edit_tags"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus_randomize_queue",
+      "labels": [
+        "cmus_randomize_queue"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus_queue_bottom_top",
+      "labels": [
+        "cmus_queue_bottom_top"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus_enqueue_randomly",
+      "labels": [
+        "cmus_enqueue_randomly"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus_format",
+      "labels": [
+        "cmus_format"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus_follow_playback",
+      "labels": [
+        "cmus_follow_playback"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/cmus_play_next_album",
+      "labels": [
+        "cmus_play_next_album"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus-plugins/cmus-base-plugins",
+      "labels": [
+        "cmus-base-plugins"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/status-display-programs#usage--installation",
+      "labels": [
+        "wiki's combination example"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "labels": [
+        "yt-dlp"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/invicnaper/cmus-youtube",
+      "labels": [
+        "invicnaper/cmus-youtube"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/viatatribal/cmus-youtube",
+      "labels": [
+        "viatatribal/cmus-youtube"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/invicnaper/spotify-dl",
+      "labels": [
+        "invicnaper/spotify-dl"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/yaronzz/Tidal-Media-Downloader",
+      "labels": [
+        "Tidal-Media-Downloader"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/jpcima/cmus-plugin-vgm",
+      "labels": [
+        "cmus-plugin-vgm"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mtreinish/pycmus",
+      "labels": [
+        "pycmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/abigailsdev/cmus-status",
+      "labels": [
+        "cmus-status Rust crate"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/stewart/cmus",
+      "labels": [
+        "stewart/cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/meh/ruby-cmus",
+      "labels": [
+        "ruby-cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ywh233/cmus-client-cpp",
+      "labels": [
+        "cmus-client-cpp"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/nogizhopaboroda/cmus-bundler",
+      "labels": [
+        "cmus-bundler"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/nogizhopaboroda/cmus-mediakeys",
+      "labels": [
+        "cmus-mediakeys"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/pgaskin/cmus",
+      "labels": [
+        "pgaskin's development fork"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/pulls",
+      "labels": [
+        "Upstream pull requests"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/discussions",
+      "labels": [
+        "Upstream discussions"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/external-patches",
+      "labels": [
+        "Historical external patches"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Ars-byte/cmuspp",
+      "labels": [
+        "CMUS++"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Ars-byte/Cmuspp-qt",
+      "labels": [
+        "CMUS++ Qt"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/timdubbins/tap",
+      "labels": [
+        "tap"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://blog.aaronbieber.com/2013/04/06/c-music-player-is-my-new-best-friend.html",
+      "labels": [
+        "Aaron Bieber: C Music Player Is My New Best Friend",
+        "Personal Mac workflow"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://blog.fox21.at/2015/11/20/control-cmus-with-media-keys.html",
+      "labels": [
+        "Christian Mayer: Control cmus with Media Keys"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://www.atn34.com/posts/cmus-album-art.html",
+      "labels": [
+        "Cmus Album Art",
+        "Personal setup write-up"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://msemjan.github.io/en/posts/introduction-into-fzf/",
+      "labels": [
+        "Introduction Into FZF"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://v3gard.com/2011/01/getting-cmus-to-cooperate-with-conky/",
+      "labels": [
+        "Getting cmus to cooperate with Conky"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://blog.256bit.org/archives/714-cmus-in-conky-integrieren.html",
+      "labels": [
+        "cmus in Conky integrieren"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://johnnymatthews.dev/blog/2020-08-28-cmus-config-location/",
+      "labels": [
+        "Johnny Matthews: CMUS config location"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://unixbhaskar.wordpress.com/2023/08/05/",
+      "labels": [
+        "Unixbhaskar: Linux tools for playing audio and video"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://www.robwood.uk/blog/cmus/",
+      "labels": [
+        "Using cmus for local music"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://iturdikulov.com/cmus",
+      "labels": [
+        "iturdikulov's cmus notes"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://cleac.me/minimal-tech.html",
+      "labels": [
+        "Minimal Tech: Music in the Terminal"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://nidarshr.wordpress.com/2017/10/03/cmus-is-amazing/",
+      "labels": [
+        "Nidarsh: CMus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://tungchingkai.blogspot.com/2021/01/202101.html",
+      "labels": [
+        "Termux, youtube-dl, and cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://www.shuangrimu.com/posts/compiling-cmus.html",
+      "labels": [
+        "Compiling cmus"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/cmus/cmus/wiki/reviews",
+      "labels": [
+        "Upstream review and article archive"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/nordic16/cmus-cheat-sheet",
+      "labels": [
+        "cmus cheat sheet repository"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/topics/cmus?o=desc&s=updated",
+      "labels": [
+        "GitHub cmus topic"
+      ],
+      "sources": [
+        "CMUS.md",
+        "cmus Ecosystem Guide.md"
+      ]
+    },
+    {
+      "url": "https://github.com/itsjfx/dotfiles/blob/b4e44e781cbc96c059c7e86264346566213368fd/.config/cmus/rc",
+      "labels": [
+        "Actual cmus rc"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/itsjfx/dotfiles/blob/b4e44e781cbc96c059c7e86264346566213368fd/lib/cmus-mediainfo.sh",
+      "labels": [
+        "Metadata helper"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/WaylonWalker/devtainer/blob/57d310f1394f0a4bc58207947e36f465372730a0/tmux/.tmux.conf",
+      "labels": [
+        "tmux configuration"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gmoshkin/dotfiles/blob/2eb73bfc9e94dcb2002affeb98cbf52caf5bf5a9/scripts/start-cmus.sh",
+      "labels": [
+        "Pane launcher"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gmoshkin/dotfiles/blob/2eb73bfc9e94dcb2002affeb98cbf52caf5bf5a9/scripts/cmus-rc.sh",
+      "labels": [
+        "Control wrapper"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gmoshkin/dotfiles/blob/2eb73bfc9e94dcb2002affeb98cbf52caf5bf5a9/tmux/cmus-remote",
+      "labels": [
+        "Local/remote handler"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sagotsky/.dotfiles/blob/75f912b41e4e39ec9727bc1e14f645e2aca98e83/home/scripts/cmus-filter.sh",
+      "labels": [
+        "Directory-aware picker"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sagotsky/.dotfiles/blob/75f912b41e4e39ec9727bc1e14f645e2aca98e83/home/scripts/music-remote.sh",
+      "labels": [
+        "Music command menu"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sagotsky/.dotfiles/blob/75f912b41e4e39ec9727bc1e14f645e2aca98e83/home/scripts/palette_to_cmus.sh",
+      "labels": [
+        "Palette adaptation"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://thibaultmarin.github.io/blog/posts/2016-10-05-Awesome-wm_configuration.html",
+      "labels": [
+        "Annotated setup and implementation"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/pgaskin/barlib/blob/6443b7e0edf57a660fe35c5dc30edb395239fe79/i3status-custom/cmus.go",
+      "labels": [
+        "cmus module"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/pgaskin/barlib",
+      "labels": [
+        "barlib repository"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Maka8295/Dotfiles",
+      "labels": [
+        "Full setup and screenshots"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Maka8295/Dotfiles/blob/ba456862192a2968c19941cde10acc16549c1f65/scripts/music-panel.py",
+      "labels": [
+        "Music panel"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Maka8295/Dotfiles/blob/ba456862192a2968c19941cde10acc16549c1f65/scripts/scratchpad.sh",
+      "labels": [
+        "Scratchpad launcher"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Maka8295/Dotfiles/blob/ba456862192a2968c19941cde10acc16549c1f65/cmus/dungeonOS.theme",
+      "labels": [
+        "cmus theme"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gotbletu/shownotes/blob/d458da0c38bbbd8e6934827d260f3bd6a9272dc5/fzf_nova/_cmus",
+      "labels": [
+        "Actual fzf script"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gotbletu/shownotes/tree/master/fzf_nova",
+      "labels": [
+        "Surrounding shownotes"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://git.pyratebeard.net/dotfiles/files.html",
+      "labels": [
+        "cmus files"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://git.pyratebeard.net/dotfiles/file/cmus/.local/bin/ara.html",
+      "labels": [
+        "Random-album helper"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://git.pyratebeard.net/dotfiles/file/cmus/.config/cmus/cmus-status-display.html",
+      "labels": [
+        "Status logger"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://git.pyratebeard.net/dotfiles/file/cmus/.local/bin/wmt.html",
+      "labels": [
+        "Weekly summary script"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/10jmuni/",
+      "labels": [
+        "Workflow showcase"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ahloiscreamo/Illit/blob/a2c4d98526df23988ce5bdbca11c308da261ee56/config/cmus/rc",
+      "labels": [
+        "Actual rc"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ahloiscreamo/Illit/tree/a2c4d98526df23988ce5bdbca11c308da261ee56/config/cmus/ref",
+      "labels": [
+        "cmus reference images"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ahloiscreamo/Illit/blob/a2c4d98526df23988ce5bdbca11c308da261ee56/config/waybar/scripts/cmus.sh",
+      "labels": [
+        "Waybar helper"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/GideonWolfe/dots/blob/4321a33f8e3324c1909c0f81788dc70fdd81317a/screenshots/cmus.png",
+      "labels": [
+        "Music screenshot"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/GideonWolfe/dots/blob/4321a33f8e3324c1909c0f81788dc70fdd81317a/dotfiles/scripts/cmus-progress.sh",
+      "labels": [
+        "Progress helper"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/GideonWolfe/dots/blob/4321a33f8e3324c1909c0f81788dc70fdd81317a/dotfiles/config/polybar/scripts/player-cmus.sh",
+      "labels": [
+        "Polybar helper"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/GideonWolfe/dots",
+      "labels": [
+        "Full environment"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mrdotx/dotfiles/blob/e88ad5156cbc0d63143dc6fb652a85cbe4d469d8/.config/cmus/rc",
+      "labels": [
+        "Actual rc"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mrdotx/dotfiles/blob/e88ad5156cbc0d63143dc6fb652a85cbe4d469d8/.config/cmus/klassiker.theme",
+      "labels": [
+        "klassiker theme"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mrdotx/dotfiles/blob/e88ad5156cbc0d63143dc6fb652a85cbe4d469d8/screenshot.png",
+      "labels": [
+        "Desktop screenshot"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/gerardbm/dotfiles/blob/100ed2a9297fcb856d014e8c877dbf78759d7201/cmus/.config/cmus/rc",
+      "labels": [
+        "Actual rc"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/FrenzyExists/Nord-dotfiles-i3/blob/1314b8b06b242e9e2452f8ce34e8ead25cb73b0e/config/cmus/cmus_notify.sh",
+      "labels": [
+        "Actual music hook"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Cybersnake223/Hypr/tree/e835336d697ca61d29cd72bb19910fb53bc9983e/.config/cmus",
+      "labels": [
+        "Actual cmus files"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/r93ebq/",
+      "labels": [
+        "Showcase"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Cadesius/Forgotten-Sands-Theme/blob/8a4e9b16d9ec9416c09f103d0aba3980c7b4b8be/cmus/full-greyscale.theme",
+      "labels": [
+        "Actual cmus theme"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/Cadesius/Forgotten-Sands-Theme/blob/8a4e9b16d9ec9416c09f103d0aba3980c7b4b8be/waybar/scripts/cmusreader.sh",
+      "labels": [
+        "Waybar reader"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/bardisty/dotfiles/blob/751187e8ad76935181120ffc9fa667c98ae3aa8b/cmus/.config/cmus/rc",
+      "labels": [
+        "Player rc"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/bardisty/dotfiles/blob/751187e8ad76935181120ffc9fa667c98ae3aa8b/beets/.config/beets/config.yaml",
+      "labels": [
+        "beets config"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mimame/.dotfiles/blob/5352122940316f62237af4776d021511332342e9/cmus/catppuccin.theme",
+      "labels": [
+        "Theme"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mimame/.dotfiles/blob/5352122940316f62237af4776d021511332342e9/beets/config.yaml",
+      "labels": [
+        "beets configuration"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mimame/.dotfiles",
+      "labels": [
+        "Repository"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/monoira/.dotfiles/blob/1389b65568899aa826cd15c19258913b1ebca1be/cmus/.config/cmus/rc",
+      "labels": [
+        "Actual rc"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sergii-dudar/dotfiles/blob/694682345381469d58bb4ea4031dcb681895d6c7/cmus/.config/cmus/rc",
+      "labels": [
+        "Player rc"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sergii-dudar/dotfiles/blob/694682345381469d58bb4ea4031dcb681895d6c7/scripts/dwm/musicup",
+      "labels": [
+        "Music change notifier"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/sergii-dudar/dotfiles",
+      "labels": [
+        "Full environment"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ssh0/dotfiles/tree/c0c3acf1c21ecb74487e9ad7937fc4f8257d1fc4/cmus",
+      "labels": [
+        "cmus directory"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ssh0/dotfiles/blob/c0c3acf1c21ecb74487e9ad7937fc4f8257d1fc4/cmus/rc",
+      "labels": [
+        "Player rc"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/ssh0/dotfiles/blob/c0c3acf1c21ecb74487e9ad7937fc4f8257d1fc4/cmus/cmus_desktop_notify.py",
+      "labels": [
+        "Notification script"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/JD154/fedora-dotfiles",
+      "labels": [
+        "Setup overview"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/JD154/fedora-dotfiles/tree/5dd642587e1a060cffdd6816d547ce7687fe1234/cmus/.cmus",
+      "labels": [
+        "cmus files"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/isfanafely/dotfiles/blob/548186a8fe13c646c07f4ea3f97ad175d5e7d8b8/screenshot/screenshot.png",
+      "labels": [
+        "Screenshot"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/isfanafely/dotfiles/tree/548186a8fe13c646c07f4ea3f97ad175d5e7d8b8/.config/cmus",
+      "labels": [
+        "Player files"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/isfanafely/dotfiles/blob/548186a8fe13c646c07f4ea3f97ad175d5e7d8b8/.config/cmus/update.sh",
+      "labels": [
+        "Refresh helper"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/guisilvano/dotfiles/blob/0c14fe2a118416c76fdb67f4c3845e33b93f1868/cmus/rc",
+      "labels": [
+        "Actual rc"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/jmiziolek/dotfiles/blob/f9894d78e88ffc0b73d538806ca4d7ba7d8bf4a8/cmus-refresh.sh",
+      "labels": [
+        "Refresh script"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/1781pcv/",
+      "labels": [
+        "Author's showcase"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/12m2qis/",
+      "labels": [
+        "Author's showcase"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/1950xt1/",
+      "labels": [
+        "Author's showcase"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/yt3wjq/",
+      "labels": [
+        "Author's showcase and comments"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/emkwcv/",
+      "labels": [
+        "Showcase"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/mxdevmanuel/dotfiles/tree/desktop",
+      "labels": [
+        "Author's linked dotfiles branch"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/1drsb06/",
+      "labels": [
+        "Author's showcase"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/vqvfwa/",
+      "labels": [
+        "Author's showcase"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/unixporn/comments/mf5g1a/",
+      "labels": [
+        "Author's showcase and source link"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://euroblitz.github.io/dotfiles.html",
+      "labels": [
+        "Gallery and author commentary"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/SeniorMars/dotfiles",
+      "labels": [
+        "Repository and older setup screenshots"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://madacol.com/blog/Cmus%20setup%20and%20shortcuts.html",
+      "labels": [
+        "Personal setup notes"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/elairavi/dotfiles/blob/592719a4bb35950fc62baa28ab1874adf6414018/.config/cmus/green-custom.theme",
+      "labels": [
+        "Actual theme"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/elairavi/dotfiles",
+      "labels": [
+        "Full environment"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/igemnace/dotfiles",
+      "labels": [
+        "Setup README"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/igemnace/dotfiles/blob/59a22fa25ea41540fca88b56e0c4034cdf7d3630/cfg/.config/cmus/highlight.theme",
+      "labels": [
+        "cmus highlight theme"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/newmanls/dotfiles",
+      "labels": [
+        "Repository"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    },
+    {
+      "url": "https://github.com/egel/dotfiles",
+      "labels": [
+        "Repository"
+      ],
+      "sources": [
+        "cmus Ecosystem Guide.md",
+        "cmus Setups and Configurations.md"
+      ]
+    }
+  ]
+}
